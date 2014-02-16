@@ -7474,7 +7474,10 @@
 		<field name="UI_MODE_TYPE_MASK" since="8" />
 		<field name="UI_MODE_TYPE_NORMAL" since="8" />
 		<field name="UI_MODE_TYPE_TELEVISION" since="13" />
-		<field name="UI_MODE_TYPE_UNDEFINED" since="8" />
+		<field name="UI_THEME_MODE_UNDEFINED" since="8" />
+		<field name="UI_THEME_MODE_NORMAL" since="8" />
+		<field name="UI_THEME_MODE_HOLO_DARK" since="8" />
+		<field name="UI_THEME_MODE_HOLO_LIGHT" since="8" />
 		<field name="densityDpi" since="17" />
 		<field name="fontScale" />
 		<field name="hardKeyboardHidden" since="3" />
@@ -7491,6 +7494,7 @@
 		<field name="screenWidthDp" since="13" />
 		<field name="smallestScreenWidthDp" since="13" />
 		<field name="touchscreen" />
+		<field name="uiThemeMode" since="8" />
 		<field name="uiMode" since="8" />
 	</class>
 	<class name="android/content/res/ObbInfo" since="9">
